@@ -1,0 +1,10 @@
+Host git.appi.corp.local
+HostName git.appi.corp.local
+IdentityFile ~/.ssh/lardente
+User lardente
+
+Host github.com
+HostName github.com
+IdentityFile ~/.ssh/lardente
+User lardente
+
